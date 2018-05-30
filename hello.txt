@@ -1,4 +1,5 @@
 hello! git
 
-Git操作のテスト中！
+branch_bを作成
+
 
